@@ -1,7 +1,7 @@
 # Simple server
 Created alongside with my tea house website project
 
-## Prerquisites 
+## Prerequisites 
 - node
 - npm
 
