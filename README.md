@@ -10,7 +10,7 @@ Created alongside with my tea house website project
 - clone the repository
 - go to repository
 ```
-cd /simple_server
+cd /server_teaHouse
 ```
 - run server
 ```
