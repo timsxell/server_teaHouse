@@ -1,3 +1,7 @@
+__get all items api is now hosted__
+
+https://europe-west3-tea-house-server.cloudfunctions.net/function-1/api/items
+
 # Simple server
 Created alongside with my tea house website project
 
